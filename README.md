@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-![Github readme stats](https://github-readme-stats-wheat-pi.vercel.app/api?username=ChuChencheng&show_icons=true&theme=vue)
+![Github readme stats](https://github-readme-stats-wheat-pi.vercel.app/api?username=ChuChencheng&show_icons=true&theme=vue&hide_border=true)
 
 <!--
 **ChuChencheng/ChuChencheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
